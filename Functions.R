@@ -204,6 +204,9 @@ package.skeleton("BSEHydroModels",list=c("soil_wetting_above_capacity",
 
 install.packages("BSEHydroModels", repos = NULL)
 
+#git config --global user.email "wmadelyn@vt.edu"
+#git config --global user.name "Madelyn Weaverling"
+
 
 
 
